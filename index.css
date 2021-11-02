@@ -1,7 +1,11 @@
-*{
-  background-color: rgb(141, 230, 141);
+.topnav {
+  overflow:hidden;
+  background-color: rgb(126, 252, 0);
 }
-div > a {
-  display: inline-flex;
-  justify-content: space-between;
+.topnav > a {
+  float: right;
+  color: aliceblue;
+  text-align: center;
+  padding: 10px 11px;
+  font-size: 15px;
 }
