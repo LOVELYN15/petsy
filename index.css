@@ -1,0 +1,7 @@
+*{
+  background-color: green;
+}
+div > a {
+  display: inline-flex;
+  justify-content: space-between;
+}
